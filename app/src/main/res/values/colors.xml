@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_bg">#050A14</color>
+    <color name="text_primary">#F0F4FF</color>
+    <color name="text_secondary">#B6C6E1</color>
+    <color name="brand">#0B1F3A</color>
+    <color name="brand_on">#E5EEF8</color>
+    <color name="brand_muted">#A6B8D3</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="danger">#C62828</color>
+    <color name="shutter_outer">#80FFFFFF</color>
+    <color name="shutter_inner">#FFFFFFFF</color>
+    <color name="control_bar_scrim">#66000000</color>
+    <color name="history_item_stroke">#B8D0F0</color>
+    <color name="history_placeholder">#25344F</color>
+    <color name="zoom_accent">#00E676</color>
+    <color name="zoom_track_bg">#1B3A3A3A</color>
+</resources>

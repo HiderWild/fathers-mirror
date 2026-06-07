@@ -1,0 +1,20 @@
+*.jks
+*.keystore
+*.keystore.properties
+release-signing.properties
+
+# Android/Gradle
+.gradle/
+/build/
+/.idea/
+*.iml
+local.properties
+.gradle
+app/build/
+app/.cxx/
+*.apk
+*.aab
+
+# Runtime cache
+.kotlin/
+*.log

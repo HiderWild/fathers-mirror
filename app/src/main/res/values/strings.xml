@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">老爸的镜子</string>
+    <string name="capture">拍照</string>
+    <string name="switch_mirror">镜像显示</string>
+    <string name="zoom_label">%1$sx</string>
+    <string name="status_no_front_camera">未检测到前置摄像头</string>
+    <string name="status_camera_error">相机启动失败：%1$s</string>
+    <string name="status_permission_denied">请先允许相机权限后再使用</string>
+    <string name="status_idle_paused_title">长时间未操作，已中断拍摄以节省电量</string>
+    <string name="status_idle_paused_hint">点击任意处恢复拍摄</string>
+    <string name="status_history_empty">暂无历史照片</string>
+    <string name="status_timeout_set">超时设置为%1$d分钟</string>
+    <string name="status_saved">已保存到 DCIM/Camera</string>
+    <string name="status_save_failed">保存失败：%1$s</string>
+    <string name="status_focusing">正在尝试对焦，请稍候</string>
+    <string name="grant_camera_permission">未授权相机权限。前往系统设置后重新授权。</string>
+    <string name="open_settings">打开设置</string>
+    <string name="settings_desc">设置</string>
+    <string name="capture_timeout_button_default">1分钟</string>
+    <string name="capture_timeout_button_label">%1$d分钟</string>
+    <string name="capture_timeout_title">无操作超时设置</string>
+    <string name="capture_timeout_message">当前仅对本页面预览失效计时（1~30分钟），输入数字修改。</string>
+    <string name="settings_save">保存</string>
+    <string name="dismiss">忽略</string>
+    <string name="zoom_1x">1x</string>
+    <string name="mirror_camera">镜像显示（拍照同步）</string>
+    <string name="mirror_toast_other_view">镜头已切换：照片将按他人视角保存</string>
+    <string name="mirror_toast_front_view">镜头已切换：照片将按正常前摄视角保存</string>
+    <string name="capture_shutter_desc">拍照</string>
+    <string name="history_item_desc">历史照片</string>
+    <string name="history_cleanup_message">历史记录已清理，移除 %1$d 张不存在照片</string>
+    <string name="history_missing_photo">该历史照片已被删除</string>
+</resources>
